@@ -59,7 +59,7 @@ These are my favorite tech stack for building all kinds of stuff.
    * **Backend** - Typescript with FeatherJS or Javascript with ExpressJS
    * **Frontend** - HTML5/CSS3, JavaScript (ES6), JQuery *To be honest i hate front end but here it is*
    * **Scripting** - Pawn Lang
-   * **Datastores** - MySQL, PostgreqSQL
+   * **Datastores** - MySQL, PostgreSQL
    * **Infrastucture** - Still Learning Docker
    * **Tools** - Github, VS Code, Figma
    * **Other** - Linux
