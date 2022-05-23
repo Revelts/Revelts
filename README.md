@@ -39,7 +39,7 @@ My name is **[Leynardo](https://en.wikipedia.org/wiki/Leonardo) [Yosef](https://
 ### 👨‍💻 What I do
       
    * 💼 **I'm working on:**
-      * [Ephorize Indonesia](https://github.com/Ephorize-Indonesia) -Indonesian GTA:V Roleplay server powered by [RAGE:MP](https://rage.mp)
+      * [Ephorize Indonesia](https://github.com/Ephorize-Indonesia) - Indonesian GTA:V Roleplay server powered by [RAGE:MP](https://rage.mp)
       * [OSS - Ministry of Investment](http://oss.go.id) - is an electronically integrated business licensing system that is managed and organized by the OSS Institution (Ministry of Investment/BKPM of the Republic of Indonesia)
       
    * ✨ **I'm maintaining:**
