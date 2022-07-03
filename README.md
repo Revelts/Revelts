@@ -58,7 +58,7 @@ My name is **[Leynardo](https://en.wikipedia.org/wiki/Leonardo) [Yosef](https://
 ### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
 
-   * **Backend** - Typescript with FeatherJS or Javascript with ExpressJS
+   * **Backend** - GoLang, Typescript with FeatherJS or Javascript with ExpressJS
    * **Frontend** - HTML5/CSS3, JavaScript (ES6), JQuery *To be honest i hate front end but here it is*
    * **Scripting** - Pawn Lang
    * **Datastores** - MySQL, PostgreSQL
