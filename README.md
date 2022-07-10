@@ -61,10 +61,10 @@ These are my favorite tech stack for building all kinds of stuff.
    * **Backend** - GoLang, Typescript with FeatherJS or Javascript with ExpressJS
    * **Frontend** - HTML5/CSS3, JavaScript (ES6), JQuery *To be honest i hate front end but here it is*
    * **Scripting** - Pawn Lang
-   * **Datastores** - MySQL, PostgreSQL
-   * **Infrastucture** - Still Learning Docker
-   * **Tools** - Github, VS Code, Figma
-   * **Other** - Linux
+   * **Datastores** - MySQL, PostgreSQL, Redis, 
+   * **Infrastucture** - Docker
+   * **Tools** - Github, VS Code, Figma, GoLand, DBeaver
+   * **Other** - Linux, RabbitMQ
 
 ---
 
