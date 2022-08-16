@@ -28,12 +28,6 @@ My name is **[Leynardo](https://en.wikipedia.org/wiki/Leonardo) [Yosef](https://
    </a>
 </p>
 
-<p align="center">
-   <a href="https://discord.com/users/252038869703196672" target="_blank" rel="nofollow">
-      <img src="https://lanyard-profile-readme.vercel.app/api/252038869703196672?idleMessage=Eat-%20-Sleep%20-Code%20Repeat..." alt="Discord Presence" align="center">
-   </a>
-</p>
-
 ---
 
 ### 👨‍💻 What I do
