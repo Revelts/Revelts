@@ -32,9 +32,10 @@ My name is **[Leynardo](https://en.wikipedia.org/wiki/Leonardo) [Yosef](https://
 
 ### 👨‍💻 What I do
       
-   * 💼 **I'm working on:**
-      * [Jogjagamers V Roleplay](https://github.com/jogjagamers-v-roleplay) - Indonesian GTA:V Roleplay server powered by [RAGE:MP](https://rage.mp)
-      * [PT LogKar](https://www.logkar.com/) - is digital technology provider in a logistics service solution to provide a Market Place for Transport Providers and Shippers)      
+   * 💼 **I've been working on:**
+      * [Jakarta Party Squad](https://jakartapartysquad.vercel.app) - Indonesian Party Community
+      * [Jogjagamers V Roleplay](https://github.com/jogjagamers-v-roleplay) (Resigned) - Indonesian GTA:V Roleplay server powered by [RAGE:MP](https://rage.mp)
+      * [PT LogKar](https://www.logkar.com/) (Resigned)- is digital technology provider in a logistics service solution to provide a Market Place for Transport Providers and Shippers)      
       
    * ✨ **I'm maintaining:**
       * [RAGE:MP Dialog UI](https://github.com/Revelts/-ragemp-samp-dialog-js) - SA:MP Dialog for RAGE:MP [RAGE:MP](https://rage.mp)
